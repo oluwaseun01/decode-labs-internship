@@ -1,5 +1,5 @@
 # decode-labs-internship
-My Data Analytics internship projects for decodelabs
+My Data Analytics internship projects for
 DecodeLabs Data Analytics Internship
 
 Welcome to my DecodeLabs Data Analytics Internship repository.
