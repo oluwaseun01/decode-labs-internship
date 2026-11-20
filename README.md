@@ -30,4 +30,4 @@ Work Completed:
 
 About Me
 
-I am an aspiring Data Analyst with a healthcare background, building practical skills in data cleaning, analysis, visualization, and reporting.
+I am an entry level Data Analyst with a healthcare background, building practical skills in data cleaning, analysis, visualization, and reporting.
