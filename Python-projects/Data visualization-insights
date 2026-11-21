@@ -1,0 +1,50 @@
+Data Visualization and Storytelling Using Python
+
+Project Overview
+
+This project focuses on transforming sales data into meaningful visual representations using Python. The objective is to communicate business insights clearly through charts and graphs.
+
+Project Objectives
+
+* Explore and understand sales data.
+* Create appropriate visualizations.
+* Identify product performance and monthly revenue trends.
+* Examine coupon usage and customer purchasing behaviour.
+* Communicate findings to support business decisions.
+
+Tools and Technologies
+
+* Python
+* Pandas
+* Matplotlib
+* Seaborn
+* Jupyter Notebook
+
+Key Visualizations
+
+1. Bar Chart – Top Products by Revenue
+2. Line Chart – Monthly Revenue Trend
+3. Pie Chart – Coupon Usage Distribution
+4. Histogram – Order Value Distribution
+5. Scatter Plot – Quantity versus Revenue
+
+Key Insights
+
+* Product revenue analysis helps identify high- and low-performing products.
+* Monthly revenue trends reveal changes in sales performance over time.
+* Coupon usage visualization helps assess promotional activity.
+* Order value distribution reveals customer spending patterns.
+* Quantity and revenue analysis helps examine purchasing behaviour.
+
+Skills Demonstrated
+
+* Data Visualization
+* Exploratory Data Analysis
+* Python Programming
+* Data Interpretation
+* Data Storytelling
+* Business Insight Communication
+
+Conclusion
+
+This project strengthened my ability to use Python visualizations to explore sales data, communicate findings and support data-driven business decisions.
